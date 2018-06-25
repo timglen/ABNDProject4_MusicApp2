@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ef6c00</color>
+    <color name="colorPrimaryDark">#b53d00</color>
+    <color name="colorAccent">#FF9d3f</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">@color/colorAccent</color>
+
+    <!-- Background color for the jazz genre -->
+    <color name="category_jazz">#FD8E09</color>
+
+    <!-- Background color for the folk genre -->
+    <color name="category_folk">#379237</color>
+
+    <!-- Background color for the classical genre -->
+    <color name="category_classical">#FFD740</color>
+
+    <!-- Background color for the country genre -->
+    <color name="category_country">#16AFCA</color>
+
+</resources>
